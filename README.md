@@ -39,16 +39,16 @@ Bachelor of Applied Mathematics and Informatics.
 ## 👨‍🎓 Additional education
 **VK MADE Big Data Academy**
 [MADE](https://data.vk.company/feed/) - Moscow, Russia _(Sep 2022 - Jul 2023)_ <br>
-Academy of Machine Learning and Big Data.
-- **_Relevant Coursework:_** Algorithms and Data Structures, Python, C++, Machine Learning, MLOps, Machine Learning on Big Data.
+Academy of Machine Learning and Big Data. <br>
+**_Relevant Coursework:_** Algorithms and Data Structures, Python, C++, Machine Learning, MLOps, Machine Learning on Big Data.
 <br><br>
 **Product Analyst VK**
 [Technoatom](https://technoatom.vk.company/) - Moscow, Russia _(Sep 2020 - Dec 2020)_ <br>
-Product analysis course by VK.
-- **_Relevant Coursework:_** Python, SQL, A/b tests
+Product analysis course by VK. <br>
+**_Relevant Coursework:_** Python, SQL, A/b tests
 <br><br>
 
 ## 🔍 Skills & Interests
-**Technical Skills**: Python, Spark, Hadoop, SQL, Airflow, Vertica, Clickhouse
+**Technical Skills**: Python, Spark, Hadoop, SQL, Airflow, Vertica, Clickhouse <br>
 **Studying now**: Scala, Functional programming.
 
