@@ -1,6 +1,6 @@
 # Ilya Verendeev
 
-_Data Analyst from Moscow :ru:_ <br>
+_Data Analyst from Moscow 🇷🇺_ <br>
 
 [Email](mailto:ilyaverendeev@mail.ru) / [GitHub](https://github.com/Z5-05/) / [Telegram](https://t.me/ilyaverendeev)
 
@@ -21,8 +21,8 @@ OZON is one of the biggest e-commerce marketplaces in Russia
 
 ## 💬 Languages
 
-:ru: **Russian**: Native <br>
-:us: **English**: B2
+🇷🇺 **Russian**: Native <br>
+🇺🇸 **English**: B2
 <br><br>
 
 ## 🏫 Education
