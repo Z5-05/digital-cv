@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: 💻✒️📄🌟
 description: Ilya Verendeev's CV
+
+name: Webpage to PDF
+uses: misaelnieto/web_to_pdf_action@v0.3.1
+
