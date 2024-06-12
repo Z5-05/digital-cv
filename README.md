@@ -1,12 +1,21 @@
 # Ilya Verendeev
 
-_Data Analyst from Moscow 🇷🇺_ <br>
+_Data Engineer from Moscow 🇷🇺_ <br>
 
 [Email](mailto:ilyaverendeev@mail.ru) / [GitHub](https://github.com/Z5-05/) / [Telegram](https://t.me/ilyaverendeev)
 
 ## 👩🏼‍💻 Working experience
 
-**Data analyst** @ [OZON](https://ozon.ru/) _(Apr 2021 - Present)_ <br>
+**Data engineer** @ [Tinkoff](https://www.tbank.ru/) _(Sep 2023 - Present)_ <br>
+"Tinkoff is the largest online bank in Russia 
+  - Creating and editing objects in DWH;
+  - Developing data extraction workflows using an Apache Airflow-based orchestrator;
+  - Building ETL processes;
+  - Conducting SQL interviews.
+  - **_Technologies used:_** Kafka, SQL, Greenplum.
+<br><br>
+
+**Data analyst** @ [OZON](https://ozon.ru/) _(Apr 2021 - Sep 2023)_ <br>
 OZON is one of the biggest e-commerce marketplaces in Russia 
   - Ad-hoc analysis;
   - Creating dashboards in Power BI, Redash, Superset;
@@ -15,14 +24,14 @@ OZON is one of the biggest e-commerce marketplaces in Russia
   - A/b tests;
   - OZON home page product analysis;
   - Vertica, clickhouse. Query optimization;
-  - API advertising services - Yandex Audience, Google Ads;
+  - API advertising services - Yandex Audience, Google Ads.
   - **_Technologies used:_** Python, SQL, Pyspark, HDFS.
 <br><br>
 
 ## 💬 Languages
 
 🇷🇺 **Russian**: Native <br>
-🇺🇸 **English**: B2
+🇺🇸 **English**: B1
 <br><br>
 
 ## 🏫 Education
@@ -49,6 +58,6 @@ Product analysis course by VK. <br>
 <br><br>
 
 ## 🔍 Skills & Interests
-**Technical Skills**: Python, Spark, Hadoop, SQL, Airflow, Vertica, Clickhouse <br>
-**Studying now**: Scala, Functional programming.
+**Technical Skills**: Python, PySpark, Hadoop, SQL, Airflow, Vertica, Clickhouse <br>
+**Studying now**: Scala, Functional programming, Spark.
 
