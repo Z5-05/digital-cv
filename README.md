@@ -7,7 +7,7 @@ _Data Engineer from Moscow 🇷🇺_ <br>
 ## 👩🏼‍💻 Working experience
 
 **Data engineer** @ [Tinkoff](https://www.tbank.ru/) _(Sep 2023 - Present)_ <br>
-"Tinkoff is the largest online bank in Russia 
+Tinkoff is the largest online bank in Russia 
   - Creating and editing objects in DWH;
   - Developing data extraction workflows using an Apache Airflow-based orchestrator;
   - Building ETL processes;
@@ -37,7 +37,7 @@ OZON is one of the biggest e-commerce marketplaces in Russia
 ## 🏫 Education
 
 **National Research Nuclear University MEPhI**
-[NRNU MEPhI](https://eng.mephi.ru/) - Moscow, Russia _(Sep 2022 - present)_ <br>
+[NRNU MEPhI](https://eng.mephi.ru/) - Moscow, Russia _(Sep 2022 - Jun 2024)_ <br>
 Masters of Applied Mathematics and Informatics.
 <br><br>
 **National Research Nuclear University MEPhI**
