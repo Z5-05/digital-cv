@@ -6,13 +6,21 @@ _Data Engineer from Moscow 🇷🇺_ <br>
 
 ## 👩🏼‍💻 Working experience
 
+**Big data engineer** @ [Predict](https://vkpredict.ru/) _(Nov 2024 - Present)_ <br>
+Predictive, customer, and geo-analytics services based on big data and machine learning technologies. 
+  - Creating data pipelines in Apache Airflow using Hadoop and Spark for processing ML features;
+  - Leading a three-member team of data engineers to migrate pipelines from Hadoop to YTsaurus;
+  - Writing Data Quality Checks for ML sources.
+  - **_Technologies used:_** Pyspark, Python, Airflow, SQL, Hadoop, YTsaurus.
+<br><br>
+
 **Data engineer** @ [Tinkoff](https://www.tbank.ru/) _(Sep 2023 - Present)_ <br>
 Tinkoff is the largest online bank in Russia 
   - Creating and editing objects in DWH;
   - Developing data extraction workflows using an Apache Airflow-based orchestrator;
   - Building ETL processes;
   - Conducting SQL interviews.
-  - **_Technologies used:_** Kafka, SQL, Greenplum.
+  - **_Technologies used:_** Kafka, SQL, Greenplum, Nifi.
 <br><br>
 
 **Data analyst** @ [OZON](https://ozon.ru/) _(Apr 2021 - Sep 2023)_ <br>
@@ -31,7 +39,7 @@ OZON is one of the biggest e-commerce marketplaces in Russia
 ## 💬 Languages
 
 🇷🇺 **Russian**: Native <br>
-🇺🇸 **English**: B1
+🇺🇸 **English**: B2
 <br><br>
 
 ## 🏫 Education
@@ -58,6 +66,6 @@ Product analysis course by VK. <br>
 <br><br>
 
 ## 🔍 Skills & Interests
-**Technical Skills**: Python, PySpark, Hadoop, SQL, Airflow, Vertica, Clickhouse <br>
-**Studying now**: Scala, Functional programming, Spark.
+**Technical Skills**: Python, PySpark, Hadoop, SQL, Airflow, Vertica, Clickhouse, Greenplum, Kafka.<br>
+**Studying now**: Kubernetes, Golang.
 
